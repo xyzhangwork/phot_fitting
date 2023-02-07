@@ -1,0 +1,3 @@
+filters/decam_g.dat
+filters/decam_r.dat
+filters/decam_z.dat
